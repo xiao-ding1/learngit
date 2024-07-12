@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "second assess",
+			"path": "../Desktop/考核/案例/second assess"
+		},
+		{
+			"name": "study",
+			"path": "../Desktop/study"
+		},
+		{
+			"name": "typescript",
+			"path": "../Desktop/typescript"
+		},
+		{
+			"name": "learngit",
+			"path": "."
+		},
+		{
+			"name": "hellovue",
+			"path": "../Desktop/hellovue"
+		},
+		{
+			"name": "webpack",
+			"path": "../Desktop/webpack"
+		},
+		{
+			"name": "typescript project",
+			"path": "../Desktop/typescript project"
+		},
+		{
+			"name": "vue_basic",
+			"path": "../Desktop/vue_basic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 8800,
+		"liveServer.settings.multiRootWorkspaceName": "vue_basic"
+	}
+}

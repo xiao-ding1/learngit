@@ -1,9 +1,12 @@
 # test
 hahahhahha
-<<<<<<< HEAD
 abcdrf
 123
-=======
 abcdrhahah
->>>>>>> feature1
 abcdrfhahah123
+aaa
+bbb
+ccc
+hhhaaa
+aaaa
+aa
